@@ -22,7 +22,7 @@ But if you review my code, I won't mind.
 
 key shortcuts:  
 ESCAPE - clear all                
-SHIFT + ESCAPE - back to main menu
+SHIFT + ESCAPE - back to main menu 
 SHIFT + BACKSPACE - go out
 
 You need to enter the number of words that will be displayed on the screen.
