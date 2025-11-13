@@ -20,9 +20,10 @@ But if you review my code, I won't mind.
 ## App functionality:
 <img width="976" height="504" alt="image" src="https://github.com/user-attachments/assets/b4877c4d-e8e7-4b0e-8a78-c50ceec20968" />
 
-key shortcuts:  ESCAPE - clear all
-                SHIFT + ESCAPE - back to main menu
-                SHIFT + BACKSPACE - go out
+key shortcuts:  
+ESCAPE - clear all                
+SHIFT + ESCAPE - back to main menu
+SHIFT + BACKSPACE - go out
 
 You need to enter the number of words that will be displayed on the screen.
 
